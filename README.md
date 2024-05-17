@@ -14,3 +14,4 @@ Before training the model, you need to preprocess the data
 Model Training
 To train the mode
 This will train the CNN on the preprocessed data and save the trained model to the models/ directory.
+contribution done by  dattatray, sahil, ruthvik
